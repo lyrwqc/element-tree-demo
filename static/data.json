@@ -1,0 +1,140 @@
+{
+    "result": true,
+    "message": "成功",
+    "data": [
+        {
+            "id": 0,
+            "name": "行政规划",
+            "UserID": 0,
+            "parent_id": 0,
+            "description": "",
+            "treeinfo": [
+                {
+                    "id": "65S",
+                    "name": "新疆(4/4)",
+                    "pId": "0S",
+                    "groupid": "65",
+                    "t": "新疆",
+                    "isParent": true
+                }
+            ],
+            "Sort": 0,
+            "ShowStatus": 0,
+            "OrderType": 1
+        },
+        {
+            "id": 0,
+            "name": "收藏",
+            "UserID": 0,
+            "parent_id": 0,
+            "description": "",
+            "treeinfo": [
+                {
+                    "id": 999,
+                    "name": "收藏(4/4)",
+                    "pId": 0,
+                    "groupid": 0,
+                    "t": "收藏",
+                    "isParent": true
+                }
+            ],
+            "Sort": 0,
+            "ShowStatus": 0,
+            "OrderType": 4
+        },
+        {
+            "id": 623,
+            "name": "rrrr",
+            "UserID": 1,
+            "parent_id": 0,
+            "description": "re4344",
+            "treeinfo": [
+                {
+                    "id": "8212G",
+                    "name": "新建分组",
+                    "pId": "0G",
+                    "groupid": "0",
+                    "t": "新建分组",
+                    "isParent": true,
+                    "Auth_Groupid": 623,
+                    "UserID": 1
+                }
+            ],
+            "Sort": 0,
+            "ShowStatus": 0,
+            "OrderType": 0
+        },
+        {
+            "id": 627,
+            "name": "ddf",
+            "UserID": 1,
+            "parent_id": 0,
+            "description": "ggg",
+            "treeinfo": [
+                {
+                    "id": "8224G",
+                    "name": "新建节点",
+                    "pId": "8223G",
+                    "groupid": "0",
+                    "t": "新建节点",
+                    "isParent": true,
+                    "Auth_Groupid": 627,
+                    "UserID": 1
+                },
+                {
+                    "id": "8241G",
+                    "name": "新建节点",
+                    "pId": "8240G",
+                    "groupid": "0",
+                    "t": "新建节点",
+                    "isParent": true,
+                    "Auth_Groupid": 627,
+                    "UserID": 1
+                },
+                {
+                    "id": "8242G",
+                    "name": "新建节点",
+                    "pId": "8212G",
+                    "groupid": "0",
+                    "t": "新建节点",
+                    "isParent": true,
+                    "Auth_Groupid": 627,
+                    "UserID": 1
+                },
+                {
+                    "id": "8243G",
+                    "name": "新建节点",
+                    "pId": "8224G",
+                    "groupid": "0",
+                    "t": "新建节点",
+                    "isParent": true,
+                    "Auth_Groupid": 627,
+                    "UserID": 1
+                },
+                {
+                    "id": "8245G",
+                    "name": "新建节点",
+                    "pId": "8212G",
+                    "groupid": "0",
+                    "t": "新建节点",
+                    "isParent": true,
+                    "Auth_Groupid": 627,
+                    "UserID": 1
+                },
+                {
+                    "id": "8246G",
+                    "name": "新建节点",
+                    "pId": "8212G",
+                    "groupid": "0",
+                    "t": "新建节点",
+                    "isParent": true,
+                    "Auth_Groupid": 627,
+                    "UserID": 1
+                }
+            ],
+            "Sort": 0,
+            "ShowStatus": 0,
+            "OrderType": 0
+        }
+    ]
+}
